@@ -1,9 +1,25 @@
+* {
+  background-color: rgb(249, 249, 251);
+}
+
 body {
   color: black;
   font-family: Arial, sans-serif;
   font-size: 11pt;
   margin: 15px auto;
   width: 860px;
+}
+
+#header {
+  margin-left: 13.5em;
+}
+
+#portrait {
+  margin-left: 8em;
+}
+
+#projects {
+  margin-left: -1.1em;
 }
 
 a:hover {
