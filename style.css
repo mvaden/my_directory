@@ -10,6 +10,16 @@ body {
   width: 860px;
 }
 
+#brand_statement {
+  margin: 0px 10;
+}
+
+img {
+  max-width: 70%;
+  width: auto;
+  height: auto;
+}
+
 #header {
   margin-left: 13.5em;
 }
@@ -41,4 +51,9 @@ th {
 
 td {
   padding: 5px 0;
+}
+
+.skills {
+  columns: 100px 3;
+  break-inside: ;
 }
