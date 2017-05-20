@@ -1,2 +1,2 @@
-# my_portfolio
-Contains files and documents for my portfolio site.
+# my_directory
+Here are the assets and contents that should be included.
